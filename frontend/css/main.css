@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    font-size:20px;
+    color:chocolate;
+    font-weight:  normal;
+    
+}
+h4{
+    text-align: center;
+    font-size: 10px ;
+    color:white;
+    font-weight:  normal;
+}
+hr{
+    height: 2px;
+    color: black;
+}
+.container-left{
+    width: 40%;
+    height: auto;
+    float: left;
+}
+.container-right{
+    width: 60%;
+    height: auto;
+    float: right;
+ 
+}
+.tieude{
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 3px solid rgba(255,0,0,0.2);
+    color: chocolate;
+}
+p{
+    color: white;
+}
